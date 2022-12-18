@@ -11,7 +11,7 @@ An automatic patcher for Gravity Rush, enabling the game to run at the full 960x
 3. Select Gravity Rush with the X button, push X again on `DECRYPT ALL(DONE)`, press O to go back to the main menu, select `[START]Decrypt modules in list`, finally select `START DECRYPT(SELF)`
 4. Copy `ux0:/FAGDec/app/PCSA00011/eboot.bin` to the root of the repository
 5. Run `main.py`
-6. Install (rePatch.skprx)[https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0]
+6. Install [rePatch.skprx](https://github.com/dots-tb/rePatch-reDux0/releases/tag/3.0)
 7. Copy the patched `eboot.bin` and `self_auth.bin` into `ux0:/rePatch/PCSA00011/`
 8. Launch the game.
 
