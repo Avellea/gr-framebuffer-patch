@@ -16,5 +16,5 @@ An automatic patcher for Gravity Rush, enabling the game to run at the full 960x
 8. Launch the game.
 
 ## Known issues
-Minor frame drops in certain locations/scenes
-Dialog images are broken.
+- Minor frame drops in certain locations/scenes
+- Dialog images are broken.
