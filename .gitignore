@@ -1,2 +1,4 @@
 eboot.bin
 eboot.bin.elf
+eboot.orig.bin
+test.py
